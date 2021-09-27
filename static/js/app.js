@@ -22,4 +22,4 @@ function buildTable(data) {
         }
       ); 
     });
-  }
+  } 
